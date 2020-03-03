@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Connect Site
+subtitle: This is the Connect demo site 
 layout: page
 callouts: home_callouts
 show_sidebar: true
